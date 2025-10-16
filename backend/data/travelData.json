@@ -1,0 +1,18 @@
+[
+    {
+      "city": "Paris",
+      "country": "France",
+      "history": "Founded in the 3rd century BC by the Parisii tribe...",
+      "culture": "Famous for art, fashion, cuisine, and architecture.",
+      "language": "French",
+      "attractions": ["Eiffel Tower", "Louvre Museum", "Notre-Dame Cathedral"]
+    },
+    {
+      "city": "Rome",
+      "country": "Italy",
+      "history": "Ancient Rome was founded in 753 BC...",
+      "culture": "Center of Roman Catholicism and classical art.",
+      "language": "Italian",
+      "attractions": ["Colosseum", "Pantheon", "Vatican City"]
+    }
+  ]
